@@ -1,0 +1,5 @@
+basic:
+  organization: 交通事故报警
+  cellPhone:
+    - '122'
+  url: https://www.122.gov.cn/
